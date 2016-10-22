@@ -1,0 +1,44 @@
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Form1.resources
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.exe
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.pdb
+G:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.exe
+G:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.pdb
+G:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPDXMLib.dll
+G:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPLib.dll
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\ResolveAssemblyReference.cache
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Form1.resources
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Properties.Resources.resources
+G:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.csproj.GenerateResource.Cache
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.exe
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.pdb
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.exe
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.pdb
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPDXMLib.dll
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Form1.resources
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein\Desktop\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.csproj.GenerateResource.Cache
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.exe
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.pdb
+E:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.exe
+E:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\RatelMusicPlayer.pdb
+E:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPDXMLib.dll
+E:\RatelMusicPlayer\RatelMusicPlayer\bin\Debug\Interop.WMPLib.dll
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\ResolveAssemblyReference.cache
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Form1.resources
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.Properties.Resources.resources
+E:\RatelMusicPlayer\RatelMusicPlayer\obj\Debug\RatelMusicPlayer.csproj.GenerateResource.Cache
